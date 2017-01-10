@@ -14,9 +14,17 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JayChenFE/webpack_demo.git"
+  },
   "keywords": [
     "webpackdemo"
   ],
   "author": "陈捷",
-  "license": "ISC"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JayChenFE/webpack_demo/issues"
+  },
+  "homepage": "https://github.com/Panda-HJN/my-webpack-demo#readme"
 }
